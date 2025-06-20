@@ -23850,6 +23850,13 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/29901/thumb/ZZZ200_200.png?1696528830"
-    }
+    },
+    {
+      "address": "0x4bd5504ada380f1a432bcb883156acbc99b77ae2",
+      "symbol": "US\u200bDT",
+      "name": "Tether USD",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/remember711/token-list/main/lists/images/0x4bd5504ada380f1a432bcb883156acbc99b77ae2.png"
+     }
   ]
 }
